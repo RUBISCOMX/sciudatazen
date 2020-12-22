@@ -10,14 +10,14 @@ output:
       smooth_scroll: true
 ---
 
-#**¿Cuál es el mejor entorno para las abejas?**
+# **Detección de basura con inteligencia artificial**
 
 Científicos de la Universidad de Sussex en Reino Unido utilizaron un jardín experimental para evaluar las plantas polinizadoras y contar el número de insectos que las visitan.
 
 Y dicen que los resultados demostraron que las plantas favoritas de los polinizadores son tan bonitas, baratas y fáciles de cultivar que aquellas que le gustan menos a los insectos.
   
   
-###**¿Cuáles fueron los resultados?** 
+### **¿Cuáles fueron los resultados?** 
 
 Los datos fueron reunidos de una manera bastante simple: visitando diariamente los parches de flores del jardín todos los días durante dos veranos y contando el número de insectos de las flores.
 
