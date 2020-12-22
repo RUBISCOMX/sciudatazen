@@ -1,0 +1,24 @@
+name: "ZumBee"
+output_dir: "."
+navbar:
+  title: "ZumBee"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Marco Teórico"
+      href: zumbee.html
+    - text: "Historia"
+      href: historia.html
+    - text: "Literatura"
+      href: literatura.html
+    - text: "Economía"
+      href: economia.html
+    - text: "Cartografía"
+      href: cartografia.html
+    - text: "Ecología"
+      href: ecologia.html
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
